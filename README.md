@@ -12,7 +12,7 @@
 ## Install
 
 ```fish
-$ omf install boxfish
+$ omf install https://github.com/hajin-chung/theme-boxfish-rosepine
 ```
 
 ## Features
