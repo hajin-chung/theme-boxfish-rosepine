@@ -9,7 +9,7 @@ function fish_prompt
     end
 
     # Display current path
-    set_color 191724 -b 9ccfd8
+    set_color e0def4 -b 31748f
     echo -n " $cwd "
 
     # Show git branch and dirty state
