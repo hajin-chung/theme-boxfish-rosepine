@@ -20,7 +20,7 @@ function fish_prompt
             set_color black -b f6c177
             echo -n " $git_branch "
         else
-            set_color black -b green
+            set_color black -b 9ccfd8
             echo -n " $git_branch "
         end
     end
